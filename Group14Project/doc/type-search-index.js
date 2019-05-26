@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"sudokuproject","l":"GameBoard"},{"p":"sudokuproject","l":"Number"},{"p":"sudokuproject","l":"SubGrid"}]
